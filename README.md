@@ -10,9 +10,11 @@ Open to new testing challenges in web or desktop environments.
 ## 🧪 Selected Projects
 
 - [**Demo SaaS – Playwright Test Suite**](https://github.com/BeataMekal/Playwright-ts-Tests-Demo-Saas)  
-  End-to-end automated tests for a sample SaaS application. Covers scenarios such as user registration, login, ticket creation, and form validation.  
-  Built with Playwright (TypeScript), executed via CLI and integrated with HTML reports.  
-  → [Test Cases](https://github.com/BeataMekal/Playwright-ts-Tests-Demo-Saas/blob/main/TEST_CASES.md) • [Playwright Report](https://beatamekal.github.io/Playwright-ts-Tests-Demo-Saas/)
+  Automated tests for a sample SaaS application (https://demo-saas.bugbug.io).  
+  Implemented using Playwright (TypeScript), with tests covering login, ticket management, and form handling.   
+  Executed automatically in a CI/CD pipeline via **GitHub Actions** on each push to `main`.  
+  Results are exported to Playwright's built-in HTML reports.    
+  → [Test Cases](https://github.com/BeataMekal/Playwright-ts-Tests-Demo-Saas/blob/main/TEST_CASES.md) • [Playwright Report](https://beatamekal.github.io/Playwright-ts-Tests-Demo-Saas/) • [CI/CD Workflows](https://github.com/BeataMekal/Playwright-ts-Tests-Demo-Saas/actions)
 
 
 Additional test automation projects are continuously added and maintained.
