@@ -3,7 +3,7 @@
 Experienced QA specialist with a strong focus on both manual and automated testing.  
 Skilled in designing and implementing end-to-end and API test automation frameworks using Playwright (TypeScript), Selenium, and Python.  
 ISTQB-certified, with practical experience in CI/CD integration (GitLab), REST and GraphQL testing, exploratory testing, and Agile/Scrum processes.  
-Open to new testing challenges in web or desktop environments.
+Open to new testing challenges.
 
 ---
 
@@ -49,4 +49,4 @@ Additional test automation projects are continuously added and maintained.
 
 ---
 
-> This GitHub profile serves as my testing portfolio. All repositories are maintained and reflect real-world automation scenarios.
+> This GitHub profile serves as my testing portfolio.
